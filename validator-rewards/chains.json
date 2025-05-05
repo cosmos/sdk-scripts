@@ -1,0 +1,30 @@
+[
+  {
+    "name": "axelar",
+    "addr": "https://axelar-api.polkachu.com"
+  },
+  {
+    "name": "osmosis",
+    "addr": "https://osmosis-api.polkachu.com"
+  },
+  {
+    "name" : "dydx",
+    "addr": "https://dydx-api.polkachu.com"
+  },
+  {
+    "name": "initia",
+    "addr": "https://initia-api.polkachu.com"
+  },
+  {
+    "name": "injective",
+    "addr": "https://injective-api.polkachu.com"
+  },
+  {
+    "name": "sei",
+    "addr": "https://sei-api.polkachu.com"
+  },
+  {
+    "name" : "cosmos_hub",
+    "addr": "https://cosmos-api.polkachu.com"
+  }
+]
